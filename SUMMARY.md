@@ -6,7 +6,7 @@
   * [補充說明](book/addendum.md)
 * [書籍格式](format/README.md)
   * [輸出格式](format/output.md)
-  * [輸出格式](format/introduction.md)
+  * [Readme 檔案與書籍介紹](format/introduction.md)
   * [章節](format/chapters.md)
   * [Markdown](format/markdown.md)
   * [AsciiDoc](format/asciidoc.md)
